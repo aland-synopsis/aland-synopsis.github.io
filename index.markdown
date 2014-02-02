@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Aland Gospel Synopsis
+title: Aland Gospel Harmony
 permalink: /
 ---
 
@@ -9303,7 +9303,7 @@ Derived from _[Synopsis Quattuor Evangeliorum](http://www.amazon.com/gp/product/
 
 ## <a name="colophon"></a>Colophon <span class="toc-jump">[&and;](#colophon-toc "Go to the Table of Contents")</span>
 
-This Gospel Synopsis is created from Kurt Aland's wonderful [Synopsis Quattuor Evangeliorum](http://www.amazon.com/gp/product/3438051303/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=3438051303&linkCode=as2&tag=benryyipcom-20), and was built using the excellent [Jekyll site generator](http://jekyllrb.com/) along with the [Foundation framework](http://foundation.zurb.com/) with hosting provided [GitHub Pages](http://pages.github.com/).
+This Gospel Harmony is created from Kurt Aland's wonderful [Synopsis Quattuor Evangeliorum](http://www.amazon.com/gp/product/3438051303/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=3438051303&linkCode=as2&tag=benryyipcom-20), and was built using the excellent [Jekyll site generator](http://jekyllrb.com/) along with the [Foundation framework](http://foundation.zurb.com/) with hosting provided by [GitHub Pages](http://pages.github.com/).
 
 All Scripture quotations, unless otherwise indicated, are taken from The Holy Bible, English Standard Version. Copyright &copy;2001 by [Crossway Bibles](http://www.crosswaybibles.org), a publishing ministry of Good News Publishers. Used by permission. All rights reserved. Text provided by the [Crossway Bibles Web Service](http://www.gnpcb.org/esv/share/services/).
 
