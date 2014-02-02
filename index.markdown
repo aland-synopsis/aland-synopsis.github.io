@@ -6,7 +6,7 @@ permalink: /
 
 # A Harmony of the Gospel
 
-Derived from _[Synopsis Quattuor Evangeliorum](http://www.amazon.com/gp/product/3438051303/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=3438051303&linkCode=as2&tag=benryyipcom-20)_ by **Kurt Aland**.
+A [Gospel harmony](http://en.wikipedia.org/wiki/Gospel_harmony) derived from _[Synopsis Quattuor Evangeliorum](http://www.amazon.com/gp/product/3438051303/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=3438051303&linkCode=as2&tag=benryyipcom-20)_ by **Kurt Aland**.
 
 <div id="table-of-contents" markdown="1">
 
@@ -319,8 +319,8 @@ Derived from _[Synopsis Quattuor Evangeliorum](http://www.amazon.com/gp/product/
     + <a name="entry-291-toc"></a>[291. False Christs And False Prophets](#entry-291)
     + <a name="entry-292-toc"></a>[292. The Coming Of The Son Of Man](#entry-292)
     + <a name="entry-293-toc"></a>[293. The Time Of The Coming: The Parable Of The Fig Tree](#entry-293)
-    + <a name="entry-294-toc"></a>[294. Conclusion: "take Heed, Watch!" (According To Mark)](#entry-294)
-    + <a name="entry-295-toc"></a>[295. Conclusion: "take Heed, Watch!" (According To Luke)](#entry-295)
+    + <a name="entry-294-toc"></a>[294. Conclusion: "Take Heed, Watch!" (According To Mark)](#entry-294)
+    + <a name="entry-295-toc"></a>[295. Conclusion: "Take Heed, Watch!" (According To Luke)](#entry-295)
 + <a name="section-conclusion-of-the-account-before-the-passion-toc"></a>[Conclusion of the Account Before the Passion](#section-conclusion-of-the-account-before-the-passion)
     + <a name="entry-296-toc"></a>[296. The Parable Of The Flood And Exhortation To Watchfulness](#entry-296)
     + <a name="entry-297-toc"></a>[297. The Parable Of The Good Servant And The Wicked Servant](#entry-297)
@@ -7605,7 +7605,7 @@ Derived from _[Synopsis Quattuor Evangeliorum](http://www.amazon.com/gp/product/
 
     </div>
 
-+ #### <a name="entry-294"></a>294. Conclusion: "take Heed, Watch!" (According To Mark) <span class="toc-jump">[&and;](#entry-294-toc "Go to the Table of Contents")</span>
++ #### <a name="entry-294"></a>294. Conclusion: "Take Heed, Watch!" (According To Mark) <span class="toc-jump">[&and;](#entry-294-toc "Go to the Table of Contents")</span>
 
     <p class="entry-references" markdown="1">
     Essential Verses: [Mark 13:33-37](http://www.esvbible.org/Mark%2013:33-37 "Read Mark 13:33-37 on esvbible.org")  
@@ -7643,7 +7643,7 @@ Derived from _[Synopsis Quattuor Evangeliorum](http://www.amazon.com/gp/product/
 
     </div>
 
-+ #### <a name="entry-295"></a>295. Conclusion: "take Heed, Watch!" (According To Luke) <span class="toc-jump">[&and;](#entry-295-toc "Go to the Table of Contents")</span>
++ #### <a name="entry-295"></a>295. Conclusion: "Take Heed, Watch!" (According To Luke) <span class="toc-jump">[&and;](#entry-295-toc "Go to the Table of Contents")</span>
 
     <p class="entry-references" markdown="1">
     Verses: [Luke 21:34-36](http://www.esvbible.org/Luke%2021:34-36 "Read Luke 21:34-36 on esvbible.org")
