@@ -3,13 +3,17 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Benry Yip -- Designer -- @benryyip
 
 # THANKS
 
-    <name>
+    Kurt Aland
+    Michael D. Marlowe
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    Normalize.css, jQuery, Modernizr
+    Normalize.css
+    Foundation
+    Jekyll
+    GitHub Pages
