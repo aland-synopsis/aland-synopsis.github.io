@@ -6,3 +6,11 @@ div > ul {
     margin: 0;
     padding: 0;
 }
+
+.entry-verses h5 {
+    text-transform: uppercase;
+}
+
+.esv-text p {
+    font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
